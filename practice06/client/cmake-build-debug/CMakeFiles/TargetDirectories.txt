@@ -1,0 +1,5 @@
+C:/Users/sasa6/OneDrive/Документы/помойка/ООП/practice06/client/cmake-build-debug/CMakeFiles/practice06-client.dir
+C:/Users/sasa6/OneDrive/Документы/помойка/ООП/practice06/client/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sasa6/OneDrive/Документы/помойка/ООП/practice06/client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/sasa6/OneDrive/Документы/помойка/ООП/practice06/client/cmake-build-debug/CMakeFiles/practice06-client_autogen_timestamp_deps.dir
+C:/Users/sasa6/OneDrive/Документы/помойка/ООП/practice06/client/cmake-build-debug/CMakeFiles/practice06-client_autogen.dir
